@@ -15,7 +15,7 @@ header{
 
 header #branding h1{
     float: left;
-    margin-left: -45px;
+    margin-left: -10px;
 }
 
 header #branding{
@@ -76,7 +76,7 @@ header a:hover{
 
 #newsletter h1{
     font-size: 28px;
-    margin-left: -76px;
+    margin-left: 35px;
 }
 
 #boxes{
@@ -144,7 +144,7 @@ header a:hover{
 
 #newsletter4 h1{
     font-size: 28px;
-    margin-left: -76px;
+    margin-left: 35px;
 }
 
 #boxes4{
@@ -169,8 +169,8 @@ header a:hover{
 }
 
 #newsletter5 h1{
-    font-size: 26px;
-    margin-left: -80px;
+    font-size: 28px;
+    margin-left: 35px;
 }
 
 #letter5 h1{
@@ -190,8 +190,8 @@ header a:hover{
 }
 
 #newsletter6 h1{
-    font-size: 26px;
-    margin-left: -80px;
+    font-size: 28px;
+    margin-left: 35px;
 }
 
 #letter6 h1{
