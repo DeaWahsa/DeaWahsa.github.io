@@ -62,3 +62,8 @@ p {
     color: #302e4d;
 }
 
+@media (max-width:1991px) {
+    p {
+        font-size: 20px;
+    }
+}
