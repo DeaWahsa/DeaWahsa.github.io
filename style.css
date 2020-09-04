@@ -1,0 +1,206 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: #fffaf0;
+}
+
+header{
+    color: #000000;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 5px solid #ec1063;
+}
+
+header #branding h1{
+    float: left;
+    margin-left: -45px;
+}
+
+header #branding{
+    margin: 0;
+}
+
+header nav{
+    float: right;
+    margin-top: 5px;
+    margin-right: 50px ;
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header a{
+    color:#fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+ul{
+    margin: 0;
+    padding:0;
+}
+
+header a:hover{
+    color:  #ffb6c1;
+    font-weight: bold;
+}
+
+.jumbotron{
+    background-image: url(img/10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 650px;
+    text-align: center;
+    color: white;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 200px;
+}
+
+#newsletter{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 5px;
+}
+
+#newsletter h1{
+    font-size: 28px;
+    margin-left: -76px;
+}
+
+#boxes{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+
+#newsletter2{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 5px;
+}
+
+#newsletter2 h1{
+    font-size: 28px;
+    margin-left: 35px;
+}
+
+#letter2 h1{
+    font-size: 17px;
+    margin-left: 45px;
+    padding-top: 20px;
+}
+
+#newsletter3{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 5px;
+}
+
+#newsletter3 h1{
+    font-size: 28px;
+    margin-left: 35px;
+}
+
+#letter3 p{
+    font-size: 17px;
+    margin-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+#letter3 h1{
+    font-size: 17px;
+    margin-left: 49px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#newsletter4{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: 5px;
+}
+
+#newsletter4 h1{
+    font-size: 28px;
+    margin-left: -76px;
+}
+
+#boxes4{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+#letter4 h1{
+    font-size: 17px;
+    margin-left: 49px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+}
+
+#newsletter5{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 18px;
+    min-height: 30px;
+    border-bottom: 5px;
+}
+
+#newsletter5 h1{
+    font-size: 26px;
+    margin-left: -80px;
+}
+
+#letter5 h1{
+    font-size: 17px;
+    margin-left: 49px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+#newsletter6{
+    padding: 15px;
+    color: #000000;
+    background: linear-gradient(to right, #faebd7, #ffc0cb);
+    padding-top: 18px;
+    min-height: 30px;
+    border-bottom: 5px;
+}
+
+#newsletter6 h1{
+    font-size: 26px;
+    margin-left: -80px;
+}
+
+#letter6 h1{
+    font-size: 17px;
+    margin-left: 49px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+
+
+
