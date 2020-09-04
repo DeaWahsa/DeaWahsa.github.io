@@ -126,7 +126,7 @@ header a:hover{
     padding-bottom: 0px;
 }
 
-@media (max-width:1991px) {
+@media (max-width:767px) {
     p {
         font-size: 20px;
     }
