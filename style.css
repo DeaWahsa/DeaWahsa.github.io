@@ -127,7 +127,7 @@ header a:hover{
 }
 
 @media (max-width:767px) {
-    p {
+    bo {
         font-size: 20px;
     }
 }
@@ -207,7 +207,7 @@ header a:hover{
     padding-bottom: 5px;
 }
 
-.box img{
+#boxes .box img{
     width: 80px;
 }
 
