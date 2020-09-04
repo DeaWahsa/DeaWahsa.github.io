@@ -126,12 +126,6 @@ header a:hover{
     padding-bottom: 0px;
 }
 
-@media (max-width:767px) {
-    bo {
-        font-size: 20px;
-    }
-}
-
 #letter3 h1{
     font-size: 17px;
     margin-left: 49px;
