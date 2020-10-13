@@ -98,6 +98,24 @@ header a:hover {
     height: 280px;
 }
 
+#boxesrr .box img {
+    width: 500px;
+    margin-left: 5px;
+    height: 200px;
+}
+
+#boxesrrr .box img {
+    width: 450px;
+    margin-left: 5px;
+    height: 250px;
+}
+
+#boxesrrrr .box img {
+    width: 400px;
+    margin-left: 5px;
+    height: 250px;
+}
+
 @media (max-width: 767px) {
     .jumbotron .display-4 {
         font-size: 40px;
